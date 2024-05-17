@@ -1,18 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRNHV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CRNHV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![CRNHV's Github stats](https://git-stats.hoeving.net/api?username=CRNHV&show_icons=true&theme=radical&card_width=500)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CRNHV/CRNHV/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CRNHV/count.svg?"  />
-</div>
-
-###
+[![Top Langs](https://git-stats.hoeving.net/api/top-langs/?username=CRNHV&theme=radical&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,kotlin&card_width=500&exclude_repo=ahklite,ucci-externals)](https://github.com/anuraghazra/github-readme-stats)
